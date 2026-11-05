@@ -1,0 +1,3 @@
+#FF973D (Player1)
+#B76CF0 (Player2)
+#B86242 (Quadrados)
